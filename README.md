@@ -19,11 +19,11 @@ The project is designed by the help of deep learning with the implementation of 
 4. Clothing warping: The clothing is warped and transformed according to the points of the human body to be superimposed on it. 
 
 ## **TECHNOLOGIES USED:** 
-VITON dataset contains 16253 image pairs composed of an upper-body garment. Images are divided into training and test sets with 14, 221, and 2, 032 image pairs, respectively.
+- VITON dataset contains 16253 image pairs composed of an upper-body garment. Images are divided into training and test sets with 14, 221, and 2, 032 image pairs, respectively.
 
-LIP (Look Into Person) human parsing is done for human segmentation. The LIP dataset is a large-scale dataset focusing on semantic understanding of a person. It contains 50,000 images with elaborated pixel-wise annotations of 19 semantic human part labels and 2D human poses with 16 key points. The images are collected from real-world scenarios and the subjects appear with challenging poses and view, heavy occlusions, various appearances and low resolution.
+- LIP (Look Into Person) human parsing is done for human segmentation. The LIP dataset is a large-scale dataset focusing on semantic understanding of a person. It contains 50,000 images with elaborated pixel-wise annotations of 19 semantic human part labels and 2D human poses with 16 key points. The images are collected from real-world scenarios and the subjects appear with challenging poses and view, heavy occlusions, various appearances and low resolution.
 
-U2 net is used for the deep learning model in our project. U2-Net is a two-level nested U-structure architecture that is designed for salient object detection (SOD). This architecture allows the network to go deeper, attain high resolution, without significantly increasing the memory and computation cost.U2 net is used to train on our data since it has a two-level nested U-structure architecture that is designed for salient object detection (SOD)
+- U2 net is used for the deep learning model in our project. U2-Net is a two-level nested U-structure architecture that is designed for salient object detection (SOD). This architecture allows the network to go deeper, attain high resolution, without significantly increasing the memory and computation cost.U2 net is used to train on our data since it has a two-level nested U-structure architecture that is designed for salient object detection (SOD)
 
 Image uploaded by the user is tested on the trained model where parsing and segmentation are done, and the clothing is warped on the person's body.
 
