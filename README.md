@@ -49,7 +49,8 @@ Tested this system by uploading the photo:
 
 Final photo outcome:
 
+![unnamed (10)](https://user-images.githubusercontent.com/79203522/206650661-0f30d924-e8f8-4b85-a26a-1059c08c22e0.png)
 
+**You can find the working video of the project here:**
 
-
-
+https://youtube.com/playlist?list=PL7DJv6PVIMUdePq4FMyJfWkr1UqeuRSmC
