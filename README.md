@@ -7,6 +7,10 @@ With this project, we aim to break this barrier between customers and brands to 
 
 The project we proposed is based on the VITON dataset, which consists of over 16,000 image pairs of clothing items along with the images of the person wearing them. Our project can be included in existing clothing website brands to cater to the users to virtually try on the clothing at their own comfort. The project can be further extended into suggesting clothes based on their body shapes and sizing where we'd be able to give similar suggestions based on their clothing choices and suggestions of clothing which would be flattering on their bodies.
 
+## **DATASET:**
+[[Dataset_Test]](https://drive.google.com/file/d/1tE7hcVFm8Td8kRh5iYRBSDFdvZIkbUIR/view?usp=sharing) 
+[[Dataset_Train]](https://drive.google.com/file/d/1lHNujZIq6KVeGOOdwnOXVCSR5E7Kv6xv/view?usp=sharing)
+
 ## **PROJECT OUTCOMES:** 
 The project is designed by the help of deep learning with the implementation of an interactive module where people can input their image and in turn find their desired clothing on their bodies. The project is divided into several modules: 
 
