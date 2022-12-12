@@ -41,25 +41,24 @@ Image uploaded by the user is tested on the trained model where parsing and segm
 
 ## **ARCHITECTURE OF THE PROJECT:**
 
-![unnamed](https://user-images.githubusercontent.com/79203522/206647528-7bcb3f98-b383-4766-8c18-b48424db5273.png)
+![image](https://user-images.githubusercontent.com/79203522/207046985-fb0db567-7561-4d3b-90dd-0d59d9f36c50.png)
 
 ## **PROJECT SCREENSHOTS:**
+![image](https://user-images.githubusercontent.com/79203522/207047085-42a583ec-3080-4721-a5a8-37de9452c4d1.png)
 
-![unnamed (3)](https://user-images.githubusercontent.com/79203522/206646317-08160da2-ed04-4a87-98bd-33e02275e16f.png)
+![image](https://user-images.githubusercontent.com/79203522/207047117-4b913e9e-8113-4160-990d-ae402a94f500.png)
 
-![unnamed (7)](https://user-images.githubusercontent.com/79203522/206646691-b3478c12-0722-4c14-91d9-225dc4ebe3c1.png)
+![image](https://user-images.githubusercontent.com/79203522/207047191-0209d0dc-1754-48dc-bb0e-f46a1f6fb873.png)
 
-![unnamed (8)](https://user-images.githubusercontent.com/79203522/206646722-b9d6faed-8d69-4b55-ad6a-5382cc974e06.png)
+![image](https://user-images.githubusercontent.com/79203522/207047207-6de06c44-6cb0-48db-885e-47c7702fea72.png)
 
-![unnamed (9)](https://user-images.githubusercontent.com/79203522/206646736-db6b214c-4e0c-46a2-ab95-de5a9a379c9d.png)
- 
 Tested this system by uploading the photo:
 
-![unnamed (1)](https://user-images.githubusercontent.com/79203522/206646778-94215101-9b66-469a-9f1f-e3b6decd944c.png)
+![image](https://user-images.githubusercontent.com/79203522/207047238-1f3bd1aa-24e3-4802-a98f-f381948ab566.png)
 
-Final photo outcome:
+Final output after try on:
 
-![unnamed (10)](https://user-images.githubusercontent.com/79203522/206650661-0f30d924-e8f8-4b85-a26a-1059c08c22e0.png)
+![image](https://user-images.githubusercontent.com/79203522/207047292-2957c7a0-0f5a-455b-af44-d9b3041b9c77.png)
 
 ## **You can find the project related videos here:**
 **Working/Methodology Video:** https://youtu.be/Zfm_JgzGVec
