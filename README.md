@@ -65,7 +65,3 @@ Final output after try on:
 
 **Prototype Video:** https://youtu.be/7bym1lF1yTs
 
-This project required GPU access, and since, through trials and demonstrations, we have exhausted our limit of AWS server; hence this project is no longer available as live working. 
-Please note that you can find the live working demonstration video on the links above.
-
-We are working on adding more product lines to our projects, such as baby clothes and handbags. Once successfully implemented, we will host it back.
