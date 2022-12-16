@@ -61,7 +61,6 @@ Final output after try on:
 ![image](https://user-images.githubusercontent.com/79203522/207047292-2957c7a0-0f5a-455b-af44-d9b3041b9c77.png)
 
 ## **You can find the project related videos here:**
-**Working/Methodology Video:** https://youtu.be/Zfm_JgzGVec
+**Working/Methodology and Prototype Video:**
 
-**Prototype Video:** https://youtu.be/7bym1lF1yTs
-
+https://drive.google.com/drive/folders/1shnzyOhc3JHLgesBYyEoFGlYbFod7aKl?usp=share_link
