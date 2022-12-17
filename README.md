@@ -50,7 +50,7 @@ Final output after try on:
 
 ![image](https://user-images.githubusercontent.com/79203522/207047292-2957c7a0-0f5a-455b-af44-d9b3041b9c77.png)
 
-## **WORKING VIDEO  :**
+## **WORKING VIDEO **
 
 https://drive.google.com/drive/folders/1shnzyOhc3JHLgesBYyEoFGlYbFod7aKl?usp=share_link
 
@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/1shnzyOhc3JHLgesBYyEoFGlYbFod7aKl?usp=sha
 [[Dataset_Test]](https://drive.google.com/file/d/1tE7hcVFm8Td8kRh5iYRBSDFdvZIkbUIR/view?usp=sharing) 
 [[Dataset_Train]](https://drive.google.com/file/d/1lHNujZIq6KVeGOOdwnOXVCSR5E7Kv6xv/view?usp=sharing)
 
-## **SCREENSHOTS OF THE INTERFACE:**
+## **SCREENSHOTS OF THE INTERFACE**
 ![image](https://user-images.githubusercontent.com/79203522/207047085-42a583ec-3080-4721-a5a8-37de9452c4d1.png)
 
 ![image](https://user-images.githubusercontent.com/79203522/207047117-4b913e9e-8113-4160-990d-ae402a94f500.png)
