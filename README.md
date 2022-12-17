@@ -29,6 +29,11 @@ Image uploaded by the user is tested on the trained model where parsing and segm
 5.	Tensor Flow
 6.	Scikit image
 
+**DATASET:**
+
+[[Dataset_Test]](https://drive.google.com/file/d/1tE7hcVFm8Td8kRh5iYRBSDFdvZIkbUIR/view?usp=sharing) 
+[[Dataset_Train]](https://drive.google.com/file/d/1lHNujZIq6KVeGOOdwnOXVCSR5E7Kv6xv/view?usp=sharing)
+
 ARCHITECTURE OF THE PROJECT:
 
 ![image](https://user-images.githubusercontent.com/79203522/207046985-fb0db567-7561-4d3b-90dd-0d59d9f36c50.png)
@@ -53,11 +58,6 @@ Final output after try on:
 ## **WORKING VIDEO **
 
 https://drive.google.com/drive/folders/1shnzyOhc3JHLgesBYyEoFGlYbFod7aKl?usp=share_link
-
-## **DATASET:**
-
-[[Dataset_Test]](https://drive.google.com/file/d/1tE7hcVFm8Td8kRh5iYRBSDFdvZIkbUIR/view?usp=sharing) 
-[[Dataset_Train]](https://drive.google.com/file/d/1lHNujZIq6KVeGOOdwnOXVCSR5E7Kv6xv/view?usp=sharing)
 
 ## **SCREENSHOTS OF THE INTERFACE**
 ![image](https://user-images.githubusercontent.com/79203522/207047085-42a583ec-3080-4721-a5a8-37de9452c4d1.png)
