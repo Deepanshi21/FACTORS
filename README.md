@@ -33,7 +33,7 @@ ARCHITECTURE OF THE PROJECT:
 
 ![image](https://user-images.githubusercontent.com/79203522/207046985-fb0db567-7561-4d3b-90dd-0d59d9f36c50.png)
 
-## **DESCRIPTION:** 
+## **DESCRIPTION** 
 Pandemic has played a vital role in how the people in the world operate. Where everything was offline, including education, meeting with people, etc., this sudden change in the world being shut completely, everything was forced to shift from the conventional to unconventional means. 
 
 With this project, we aim to break this barrier between customers and brands to aid customers in trying on the clothes at their own convenience. Our project helps us to eliminate the shortcomings in the already established world of online shopping where the customers get the luxury to see how the clothes sit on their bodies, in the comfort of their homes.
