@@ -64,6 +64,6 @@ Final output after try on:
 
 ![image](https://user-images.githubusercontent.com/79203522/207047292-2957c7a0-0f5a-455b-af44-d9b3041b9c77.png)
 
-This project required GPU access, and since, through trials and demonstrations, we have exhausted our limit of AWS server. Wwe are trying to extend the limit in the future. 
+This project required GPU access, and since, through trials and demonstrations, we have exhausted our limit of AWS server. We are trying to extend the limit.
 
 
